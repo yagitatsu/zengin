@@ -1,2 +1,2 @@
 # zengin
-Package zengin implements encoding and decoding of Zengin File.
+Package zengin implements encoding of Zengin File.
